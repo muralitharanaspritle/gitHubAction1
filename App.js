@@ -11,7 +11,7 @@ import type {Node} from 'react';
 import {
   SafeAreaView,
   ScrollView,
-  StatusBar,
+  StatusBar, 
   StyleSheet,
   Text,
   useColorScheme,
