@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <View>
-      <Text>Hey hello</Text>
+      <Text>Hey hello new app</Text>
     </View>
   );
 };
